@@ -1,2 +1,5 @@
 env
 djangorest/__pycache__/
+api/__pycache__/
+	api/migrations/__pycache__/
+	djangorest/__pycache__/
